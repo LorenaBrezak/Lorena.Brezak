@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+    
+
+.prvifont h1{
+	font-family:LorenaBrezak;
+	font-size: 70px;
+}
+.prvifont{
+	background-image: url("slike 1/pozadinskaSlika.jpg");
+}	
+ul {		padding:20px; 
+			margin-left:auto; 
+			margin-right:auto;  
+			width: 500px;
+			} 
+li {	    display:inline; 
+			background-color:#091B30;
+			padding:20px;
+			border: #051020;
+		}
+li:active {background-color:#091B30;} 
+li a {	color:white; 
+			font-family: "CabinSketch", sans-serif; 
+			text-transform: uppercase;
+}
+.paragrafi{
+	color:white;
+	background-color:#091B30;
+	font-size: 25px;
+}
+
+.drugidok, .trecidok{
+	background-image: url("slike 1/pozadina 2.jpg");
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+}
+.drugidok h1{
+	font-size: 50px;
+}
+.drugidok p{
+	background-color: beige;
+}
+.drugidok a{
+	background-color: none;
+}
+.trecidok p{
+	background-color:#091B30;
+	font-size: 20px;
+	color: aliceblue;
+	
+}
+.trecidok h2{
+	font-size: 30px;
+}
+
+.trecidok h1{
+	font-size: 40px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+img {
+	height: 300px;
+}
+	
+
+
+
